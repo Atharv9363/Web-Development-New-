@@ -1,0 +1,18 @@
+h1{
+    text-shadow: 3px 3px burlywood;
+    text-shadow: 3px 3px 3px burlywood;
+    text-shadow: 3px 3px burlywood, 6px 6px goldenrod;
+    /* text-shadow: 3px 3px burlywood, 60px 60px goldenrod; */
+}
+
+.box{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    color: blueviolet;
+    box-shadow: 10px 10px greenyellow;
+    box-shadow: 10px 10px greenyellow, 15px 15px gold;
+}
+
+
+/* H.W: How can we add border using shadows */
